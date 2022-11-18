@@ -1,0 +1,7 @@
+@import './src/default/index.css';
+@import './src/color.css';
+@import './src/border.css';
+@import './src/font.css';
+@import './src/spacing.css';
+@import './src/util.css';
+@import './src/base.css';
